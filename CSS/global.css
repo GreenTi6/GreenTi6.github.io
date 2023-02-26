@@ -1,0 +1,69 @@
+
+ * {
+   box-sizing: border-box;
+ }
+
+ html, body {
+   height: 100%;
+   margin: 0;
+ }
+
+ .container {
+   padding: 0;
+   min-height: 100%;
+
+   margin-top: 0px;
+   margin-bottom: -70px;
+   margin-right: auto
+   margin-left: auto
+ }
+
+
+
+
+img {
+  width: 80%;
+  height: auto;
+}
+
+header {
+  background-color: red;
+}
+
+header div {
+  width: 80%;
+
+  padding-top: 30px;
+  padding-right: 0;
+  padding-bottom: 30px;
+  padding-left: 0;
+
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.main-logo {
+  color: black;
+  background-color: white;
+
+  font-family: 'arial black', arial, helvetica, sans-serif;
+
+  font-size: 3vh;
+
+  margin-left: 5%;
+  text-decoration: non;
+  position: relative;
+}
+
+.page-title {
+  font-family: 'Cambria', times, serif;
+  font-size: 2vh;
+  padding-left: 1%;
+  position: relative
+}
+
+section {
+  background-image: url("C:\\Users\\User\\CodaKid\\Projects\\Html5\\Blender for dummies\\Images\\Loki Monkey - Copy.png");
+}
